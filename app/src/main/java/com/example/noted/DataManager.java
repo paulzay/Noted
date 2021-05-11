@@ -1,4 +1,4 @@
-package com.jwhh.notekeeper;
+package com.example.noted;
 
 import java.util.ArrayList;
 import java.util.List;

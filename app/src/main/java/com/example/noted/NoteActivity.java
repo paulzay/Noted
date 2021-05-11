@@ -1,4 +1,4 @@
-package com.jwhh.notekeeper;
+package com.example.noted;
 
 import android.os.Bundle;
 
@@ -21,7 +21,7 @@ public class NoteActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_note);
+        setContentView(R.layout.activity_main);
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 

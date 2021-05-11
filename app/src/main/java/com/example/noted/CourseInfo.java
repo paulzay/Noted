@@ -1,4 +1,4 @@
-package com.jwhh.notekeeper;
+package com.example.noted;
 
 import android.database.Cursor;
 import android.os.Parcel;

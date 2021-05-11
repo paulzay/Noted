@@ -1,4 +1,4 @@
-package com.jwhh.notekeeper;
+package com.example.noted;
 
 import android.os.Parcel;
 import android.os.Parcelable;
